@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        
+        // диаграмма находится в image.png
         class User
         {
             public string Login { get; set; }
